@@ -50,7 +50,7 @@ exit 1
 ])
 AC_CHECK_HEADERS(zopflipng/zopflipng_lib.h,,[
 echo "Cannot find zopflipng/zopflipng_lib.h."
-exit 1
+# exit 1
 ])
 
 # Checks for typedefs, structures, and compiler characteristics.
