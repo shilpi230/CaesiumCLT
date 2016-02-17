@@ -4019,7 +4019,7 @@ _ACEOF
 else
 
 	echo "Cannot find libzopflipng."
-	exit 1
+	# exit 1
 
 fi
 
